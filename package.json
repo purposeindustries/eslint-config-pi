@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-pi",
+  "version": "1.0.0",
+  "description": "Purpose Industries` official eslint config ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purposeindustries/eslint-config-pi.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "shareable"
+  ],
+  "author": {
+    "name": "Tamas Fodor",
+    "email": "tf@purposeindustries.co"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/purposeindustries/eslint-config-pi/issues"
+  },
+  "homepage": "https://github.com/purposeindustries/eslint-config-pi#readme"
+}

@@ -103,6 +103,5 @@ module.exports = {
     'no-mixed-requires': 2,
     'consistent-return': 0,
     'space-after-keywords': 2,
-    'quotes': [2, 'single', 'avoid-escape']
   }
 };

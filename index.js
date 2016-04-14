@@ -28,7 +28,7 @@ module.exports = {
     'no-caller': 2,
     'no-div-regex': 2,
     'no-else-return': 2,
-    'no-empty-label': 2,
+    'no-labels': 2,
     'no-eq-null': 0,
     'no-eval': 2,
     'no-extend-native': 2,
@@ -94,7 +94,7 @@ module.exports = {
     'array-bracket-spacing': [2, 'never'],
     'object-curly-spacing': [1, 'always'],
     'space-infix-ops': 2,
-    'space-return-throw-case': 2,
+    'keyword-spacing': 2,
     'space-unary-ops': 2,
     'max-nested-callbacks': [2, 4],
     'one-var': 0,
@@ -102,6 +102,5 @@ module.exports = {
     'max-len': [1, 80, 4],
     'no-mixed-requires': 2,
     'consistent-return': 0,
-    'space-after-keywords': 2,
   }
 };

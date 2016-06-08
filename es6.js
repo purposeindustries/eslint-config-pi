@@ -17,7 +17,7 @@ module.exports = {
     "no-confusing-arrow": [2, { "allowParens": true }],
     "no-const-assign": 2,
     "no-dupe-class-members": 2,
-    "no-duplicate-imports": 2,
+    "no-duplicate-imports": 0,
     "no-new-symbol": 2,
     "no-restricted-imports": [2, "jquery", "underscore"],
     "no-this-before-super": 2,

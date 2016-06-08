@@ -5,16 +5,7 @@ module.exports = {
     "es6": true
   },
   "ecmaFeatures": {
-    "modules": true,
-    "blockBindings": true,
-    "objectLiteralShorthandMethods": true,
-    "generators": true,
-    "destructuring": true,
-    "arrowFunctions": true,
-    "restParams": true,
-    "spread": true,
-    "templateStrings": true,
-    "objectLiteralComputedProperties": true
+    "modules": true
   },
   "rules": {
     "arrow-body-style": 0,

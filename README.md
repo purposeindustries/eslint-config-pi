@@ -27,7 +27,7 @@ Then add it to your .eslintrc
 If you'd like to use our es6 rule set:
 
 ```sh
-$ npm i -D eslint-config-pi babel-eslint eslint
+$ npm i -D eslint-config-pi babel-eslint eslint-plugin-babel eslint
 ```
 
 You can add this to your .eslintrc in this way:
@@ -64,7 +64,7 @@ the basics, just do the following.
 Install the dependencies accordingly:
 
 ```sh
-$ npm i -D eslint-config-pi babel-eslint eslint-plugin-react eslint
+$ npm i -D eslint-config-pi babel-eslint eslint-plugin-react eslint-plugin-babel eslint
 ```
 
 .eslintrc:

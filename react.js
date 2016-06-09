@@ -5,7 +5,7 @@ module.exports = {
   },
   "rules": {
     "jsx-quotes": [2, "prefer-double"],
-    "react/display-name": [1, { "ignoreTranspilerName": true }],
+    "react/display-name": 0,
     "react/forbid-prop-types": 0,
     "react/no-danger": 2,
     "react/no-deprecated": [2, { "react": "15.0.0" }],
@@ -37,7 +37,7 @@ module.exports = {
     "react/jsx-indent-props": [2, 2],
     "react/jsx-key": 2,
     "react/jsx-max-props-per-line": [1, { "maximum": 3 }],
-    "react/jsx-no-bind": 2,
+    "react/jsx-no-bind": 0,
     "react/jsx-no-duplicate-props": 2,
     "react/jsx-no-literals": 0,
     "react/jsx-no-target-blank": 2,

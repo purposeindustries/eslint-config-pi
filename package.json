@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-pi",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "Purpose Industries` official eslint config ",
   "main": "index.js",
   "scripts": {

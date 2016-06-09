@@ -5,7 +5,7 @@ module.exports = {
   },
   "rules": {
     "jsx-quotes": [2, "prefer-double"],
-    "react/display-name": 0,
+    "react/display-name": [1, { "ignoreTranspilerName": true }],
     "react/forbid-prop-types": 0,
     "react/no-danger": 2,
     "react/no-deprecated": [2, { "react": "15.0.0" }],

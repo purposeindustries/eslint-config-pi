@@ -31,7 +31,7 @@ module.exports = {
     "prefer-reflect": 1,
     "prefer-rest-params": 1,
     "prefer-spread": 1,
-    "prefer-template": 1,
+    "prefer-template": 0,
     "sort-imports": 0,
     "template-curly-spacing": 0,
     "yield-star-spacing": [2, "after"]

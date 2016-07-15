@@ -14,7 +14,7 @@ module.exports = {
     "react/no-direct-mutation-state": 2,
     "react/no-is-mounted": 2,
     "react/no-multi-comp": 0,
-    "react/no-set-state": 2,
+    "react/no-set-state": 0,
     "react/no-string-refs": 1,
     "react/no-unknown-property": 2,
     "react/prefer-es6-class": [1, "never"],

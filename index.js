@@ -155,7 +155,7 @@ module.exports = {
     "newline-before-return": 0,
     "newline-per-chained-call": 0,
     "object-curly-newline": 0,
-    "object-curly-spacing": [1, "always"],
+    "object-curly-spacing": 0,
     "object-property-newline": 0,
     "one-var": 0,
     "one-var-declaration-per-line": 0,

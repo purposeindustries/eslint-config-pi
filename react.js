@@ -13,7 +13,7 @@ module.exports = {
     "react/no-did-update-set-state": [2, "allow-in-func"],
     "react/no-direct-mutation-state": 2,
     "react/no-is-mounted": 2,
-    "react/no-multi-comp": 1,
+    "react/no-multi-comp": 0,
     "react/no-set-state": 2,
     "react/no-string-refs": 1,
     "react/no-unknown-property": 2,

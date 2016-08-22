@@ -160,7 +160,7 @@ module.exports = {
     "one-var": 0,
     "one-var-declaration-per-line": 0,
     "operator-assignment": 0,
-    "operator-linebreak": [1, "before"],
+    "operator-linebreak": 0,
     "padded-blocks": 0,
     "quote-props": 0,
     "quotes": [2, "single", "avoid-escape"],

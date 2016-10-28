@@ -37,7 +37,7 @@ module.exports = {
     "no-implicit-coercion": 0,
     "no-implicit-globals": 2,
     "no-implied-eval": 2,
-    "no-inline-comments": 2,
+    "no-inline-comments": 0,
     "no-inner-declarations": [2, "both"],
     "no-invalid-regexp": 2,
     "no-invalid-this": 0,
